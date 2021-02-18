@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9770854b1bae35e40ad544c4af02c563, type: 3}
+    - {fileID: 2800000, guid: 15764bea68bec264eb9b516753ce1b86, type: 3}
+    - {fileID: 2800000, guid: 2ebc44e2f10c3c74c9dbee3b4f61cec6, type: 3}
+    - {fileID: 2800000, guid: 94196cae85b9aa544a456bd2e8664fb9, type: 3}
+    - {fileID: 2800000, guid: 18d80cf1f92bcba44a05b5f85e14dba8, type: 3}
+    - {fileID: 2800000, guid: bd46a0cc03e8cae4db4d9a0dd62eeea6, type: 3}
+    - {fileID: 2800000, guid: b01d8800ce6559749aca870f3b32434f, type: 3}
+    - {fileID: 2800000, guid: a4a29ecda11c39947aab52a674a88729, type: 3}
+    - {fileID: 2800000, guid: 757a369d4a969154bb6e97c42a300a5a, type: 3}
+    - {fileID: 2800000, guid: 61b0c95ecbb13ef4984169b9d9ba7fc1, type: 3}
+    - {fileID: 2800000, guid: c0dc511cb1e56934ab004cdad6aab68e, type: 3}
+    - {fileID: 2800000, guid: bf8184eb458e50444be119aea906070f, type: 3}
+    - {fileID: 2800000, guid: b0c37a8f7f600e6458b71fc0d0494c8f, type: 3}
+    - {fileID: 2800000, guid: 856014a4a3555cd44b697c7ae879fc4f, type: 3}
+    - {fileID: 2800000, guid: 05737d547e3b6344b9d6bc07cb5c6da0, type: 3}
+    - {fileID: 2800000, guid: 953f3fcf3a5057d409bcb12dc390ad69, type: 3}
+    - {fileID: 2800000, guid: 19327a8c33754f741a90c11f7aa14d3c, type: 3}
+    - {fileID: 2800000, guid: 477233746b3db7f468df179c34692ae6, type: 3}
+    - {fileID: 2800000, guid: e7536cbdd1fd2ff4a8b0b191eb3d9e95, type: 3}
+    - {fileID: 2800000, guid: 673d0ea7c5a16a443b42d5a7f007a1cc, type: 3}
+    - {fileID: 2800000, guid: 611c7d9f78f3335488308d4c0722991d, type: 3}
+    - {fileID: 2800000, guid: 3957cf6772aefe64a8a237356354098e, type: 3}
+    - {fileID: 2800000, guid: 9d37778f9dd4282478d0961893393cd7, type: 3}
+    - {fileID: 2800000, guid: afdfa3cd0f410ff478b33831ae421ce4, type: 3}
+    - {fileID: 2800000, guid: 18780d483b6fbd54994cf79d839b5882, type: 3}
+    - {fileID: 2800000, guid: f32b95b29c2e172408e06e764b043b6c, type: 3}
+    totalSpriteSurfaceArea: 129614
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b01d8800ce6559749aca870f3b32434f, type: 3}
+  - {fileID: 21300000, guid: 18d80cf1f92bcba44a05b5f85e14dba8, type: 3}
+  - {fileID: 21300000, guid: f32b95b29c2e172408e06e764b043b6c, type: 3}
+  - {fileID: 21300000, guid: 2ebc44e2f10c3c74c9dbee3b4f61cec6, type: 3}
+  - {fileID: 21300000, guid: 05737d547e3b6344b9d6bc07cb5c6da0, type: 3}
+  - {fileID: 21300000, guid: 477233746b3db7f468df179c34692ae6, type: 3}
+  - {fileID: 21300000, guid: 856014a4a3555cd44b697c7ae879fc4f, type: 3}
+  - {fileID: 21300000, guid: 3957cf6772aefe64a8a237356354098e, type: 3}
+  - {fileID: 21300000, guid: 673d0ea7c5a16a443b42d5a7f007a1cc, type: 3}
+  - {fileID: 21300000, guid: 18780d483b6fbd54994cf79d839b5882, type: 3}
+  - {fileID: 21300000, guid: 15764bea68bec264eb9b516753ce1b86, type: 3}
+  - {fileID: 21300000, guid: 9770854b1bae35e40ad544c4af02c563, type: 3}
+  - {fileID: 21300000, guid: bf8184eb458e50444be119aea906070f, type: 3}
+  - {fileID: 21300000, guid: c0dc511cb1e56934ab004cdad6aab68e, type: 3}
+  - {fileID: 21300000, guid: 19327a8c33754f741a90c11f7aa14d3c, type: 3}
+  - {fileID: 21300000, guid: bd46a0cc03e8cae4db4d9a0dd62eeea6, type: 3}
+  - {fileID: 21300000, guid: 757a369d4a969154bb6e97c42a300a5a, type: 3}
+  - {fileID: 21300000, guid: e7536cbdd1fd2ff4a8b0b191eb3d9e95, type: 3}
+  - {fileID: 21300000, guid: afdfa3cd0f410ff478b33831ae421ce4, type: 3}
+  - {fileID: 21300000, guid: a4a29ecda11c39947aab52a674a88729, type: 3}
+  - {fileID: 21300000, guid: 61b0c95ecbb13ef4984169b9d9ba7fc1, type: 3}
+  - {fileID: 21300000, guid: 94196cae85b9aa544a456bd2e8664fb9, type: 3}
+  - {fileID: 21300000, guid: 9d37778f9dd4282478d0961893393cd7, type: 3}
+  - {fileID: 21300000, guid: b0c37a8f7f600e6458b71fc0d0494c8f, type: 3}
+  - {fileID: 21300000, guid: 611c7d9f78f3335488308d4c0722991d, type: 3}
+  - {fileID: 21300000, guid: 953f3fcf3a5057d409bcb12dc390ad69, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - e
+  - d-jmp
+  - cherep
+  - 3
+  - Sprite-0002
+  - time
+  - Sprite-0001
+  - l3
+  - l1
+  - level
+  - 2
+  - 1
+  - skill
+  - shift
+  - Sprite-00031
+  - dialogue
+  - lock
+  - use
+  - l5
+  - jump
+  - move
+  - change
+  - l4
+  - skillicon
+  - l2
+  - Sprite-00021
+  m_Tag: UI
+  m_IsVariant: 0
